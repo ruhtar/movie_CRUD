@@ -1,6 +1,6 @@
 # API REST - Movies
 
-![Project Image](https://images-na.ssl-images-amazon.com/images/I/51WcUuvChzL.png)
+![Project Image](https://miro.medium.com/max/600/1*1S1FzR-yg-ucZGMoxCC9hw.png)
 
 > A REST API with 4 methods to operate on a database.
 
